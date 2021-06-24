@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_dash_foreground"/>
+
+    <item
+        android:id="@+id/srch"
+        android:icon="@drawable/ic_search_dash_foreground"/>
+    <item
+        android:id="@+id/courese"
+        android:icon="@drawable/ic_course_dash_foreground"/>
+    <item
+        android:id="@+id/msg"
+        android:icon="@drawable/ic_msg_dash_foreground"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_user_pro_foreground"
+         />
+</menu>
